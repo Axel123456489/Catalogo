@@ -1,0 +1,1201 @@
+codigo;descripcion;cantidad;precio
+000001;Mantequilla 500 g;101;427.59
+000002;Azucar rubia 1 kg;137;62.68
+000003;Queso fresco 900 ml;14;333.55
+000004;Aceite de oliva 1 kg;22;285.19
+000005;Leche evaporada 1 kg;61;60.44
+000006;Zanahoria 1 L;15;371.57
+000007;Leche entera 500 g;161;412.19
+000008;Manzana 1 kg;147;384.74
+000009;Yogurt fresa 1 kg;56;31.52
+000010;Zanahoria 500 g;74;275.68
+000011;Pan blanco 900 ml;30;375.15
+000012;Te negro 900 ml;174;119.44
+000013;Leche entera 900 ml;146;419.71
+000014;Aceite de oliva 250 g;24;359.96
+000015;Carne molida 1 kg;144;40.06
+000016;Platano 500 g;127;446.9
+000017;Zanahoria 1 L;198;206.87
+000018;Papa amarilla 900 ml;116;237.96
+000019;Te negro 500 g;46;459.09
+000020;Sardinas 500 g;20;377.45
+000021;Te negro 900 ml;126;226.1
+000022;Huevos 1 L;73;400.08
+000023;Aceite vegetal 1 kg;131;275.02
+000024;Fideo talludin 250 g;38;321.44
+000025;Leche evaporada 1 kg;171;51.86
+000026;Sardinas 900 ml;146;206.61
+000027;Mantequilla 12 unidades;89;390.52
+000028;Cebolla roja 900 ml;116;46.06
+000029;Harina 1 kg;69;311.7
+000030;Carne molida 12 unidades;16;40.76
+000031;Huevos 12 unidades;79;425.1
+000032;Manzana 12 unidades;114;187.51
+000033;Carne molida 1 L;171;228.41
+000034;Arroz extra 1 L;90;111.13
+000035;Platano 1 kg;126;39.63
+000036;Aceite de oliva 250 g;33;484.89
+000037;Atun en aceite 1 L;100;326.39
+000038;Aceite vegetal 500 g;114;264.22
+000039;Zanahoria 250 g;35;283.14
+000040;Azucar glass 900 ml;71;463.94
+000041;Leche evaporada 250 g;174;250.32
+000042;Milo verde 500 g;38;55.38
+000043;Fideo talludin 500 g;59;432.56
+000044;Atun en aceite 1 kg;124;387.08
+000045;Fideo talludin 250 g;72;3.68
+000046;Pan blanco 1 L;136;242.99
+000047;Platano 900 ml;81;83.24
+000048;Carne molida 900 ml;158;430.23
+000049;Pollo entero 12 unidades;13;300.26
+000050;Bicarbonato 12 unidades;143;258.14
+000051;Yogurt fresa 1 L;100;68.85
+000052;Cebolla roja 12 unidades;102;41.79
+000053;Aceite de oliva 1 kg;53;289.76
+000054;Fideo talludin 1 kg;87;394.69
+000055;Azucar rubia 1 kg;0;372.44
+000056;Pan blanco 900 ml;25;239.29
+000057;Platano 1 kg;18;137.28
+000058;Platano 1 L;38;416.76
+000059;Cafe molido 250 g;154;239.65
+000060;Cebolla roja 1 kg;29;320.86
+000061;Papa amarilla 1 L;123;205.37
+000062;Aceite vegetal 500 g;26;492.3
+000063;Mantequilla 12 unidades;67;314.66
+000064;Harina 12 unidades;41;339.38
+000065;Arroz extra 500 g;135;238.07
+000066;Pan blanco 12 unidades;139;18.72
+000067;Sardinas 900 ml;76;422.34
+000068;Azucar glass 1 kg;178;172.12
+000069;Tomate 250 g;42;234.1
+000070;Sardinas 500 g;136;355.92
+000071;Sardinas 900 ml;84;418.09
+000072;Atun en aceite 900 ml;194;128.89
+000073;Atun en lata 500 g;102;485.88
+000074;Atun en lata 500 g;51;340.23
+000075;Cebolla roja 250 g;187;19.99
+000076;Arroz extra 250 g;120;170.85
+000077;Aceite de oliva 12 unidades;154;226.62
+000078;Papa amarilla 12 unidades;89;239.96
+000079;Aceite vegetal 500 g;26;149.66
+000080;Cebolla roja 500 g;86;134.93
+000081;Cebolla roja 900 ml;156;2.25
+000082;Cebolla roja 12 unidades;88;422.48
+000083;Aceite vegetal 12 unidades;30;255.63
+000084;Atun en lata 12 unidades;192;131.62
+000085;Cebolla roja 500 g;111;417.7
+000086;Mantequilla 1 kg;184;260.41
+000087;Papa amarilla 1 L;190;56.65
+000088;Huevos 500 g;43;84.25
+000089;Arroz extra 500 g;151;305.97
+000090;Atun en lata 12 unidades;37;401.8
+000091;Harina 900 ml;121;431.74
+000092;Maicena 250 g;39;360.56
+000093;Zanahoria 500 g;5;10.33
+000094;Atun en lata 12 unidades;166;68.35
+000095;Tomate 12 unidades;35;285.3
+000096;Azucar glass 500 g;54;19.34
+000097;Cafe molido 500 g;74;329.44
+000098;Atun en aceite 900 ml;83;170.97
+000099;Zanahoria 1 L;33;40.91
+000100;Maicena 12 unidades;90;301.26
+000101;Pollo entero 900 ml;132;276.66
+000102;Harina 900 ml;33;349.53
+000103;Pan blanco 900 ml;130;13.25
+000104;Azucar glass 1 L;198;121
+000105;Platano 1 kg;198;99.17
+000106;Fideo talludin 500 g;121;406.73
+000107;Huevos 1 kg;142;41.47
+000108;Mantequilla 12 unidades;132;348.81
+000109;Zanahoria 1 L;200;70.53
+000110;Bicarbonato 900 ml;14;163.85
+000111;Aceite de oliva 250 g;10;65.05
+000112;Tomate 1 L;143;19.26
+000113;Sardinas 1 kg;113;214.39
+000114;Platano 900 ml;155;336.65
+000115;Aceite de oliva 12 unidades;70;297.44
+000116;Tomate 900 ml;122;333.76
+000117;Milo verde 500 g;178;343.89
+000118;Bicarbonato 250 g;143;133.76
+000119;Harina 1 L;35;274.04
+000120;Leche entera 1 L;113;208.08
+000121;Aceite vegetal 12 unidades;61;281.71
+000122;Aceite vegetal 500 g;171;199.42
+000123;Atun en lata 1 kg;198;102.21
+000124;Milo verde 12 unidades;164;433.7
+000125;Queso fresco 500 g;64;90.95
+000126;Milo verde 1 L;56;490.34
+000127;Milo verde 1 kg;101;320.33
+000128;Fideo talludin 12 unidades;57;106.81
+000129;Carne molida 1 L;131;265.64
+000130;Mantequilla 1 L;50;234.71
+000131;Mantequilla 1 kg;184;240.83
+000132;Arroz extra 250 g;141;301.59
+000133;Papa amarilla 12 unidades;4;252.88
+000134;Mantequilla 900 ml;159;194.62
+000135;Tomate 1 kg;28;150.78
+000136;Bicarbonato 1 kg;21;175.04
+000137;Cafe molido 1 kg;199;119.98
+000138;Cafe molido 500 g;108;444
+000139;Harina 250 g;103;98.88
+000140;Zanahoria 900 ml;146;325.14
+000141;Carne molida 250 g;22;183.88
+000142;Azucar rubia 12 unidades;46;279.73
+000143;Bicarbonato 1 kg;68;12.03
+000144;Naranja 1 kg;66;55.88
+000145;Platano 500 g;17;174.31
+000146;Azucar glass 1 kg;116;8.56
+000147;Mantequilla 900 ml;106;176.54
+000148;Platano 500 g;11;346.31
+000149;Carne molida 500 g;28;106.8
+000150;Cafe molido 1 kg;46;133.23
+000151;Maicena 250 g;160;200.88
+000152;Tomate 500 g;74;293.08
+000153;Tomate 12 unidades;45;178.28
+000154;Queso fresco 1 kg;64;25.21
+000155;Arroz extra 1 kg;187;332.38
+000156;Zanahoria 500 g;131;312.13
+000157;Atun en aceite 1 L;27;432.43
+000158;Harina 12 unidades;110;431.25
+000159;Cebolla roja 900 ml;100;333.06
+000160;Te negro 12 unidades;55;151.44
+000161;Mantequilla 500 g;180;478.65
+000162;Naranja 500 g;103;228.77
+000163;Azucar rubia 500 g;3;47.34
+000164;Naranja 12 unidades;65;283.29
+000165;Fideo talludin 1 kg;21;436.96
+000166;Harina 1 L;129;440.44
+000167;Te negro 900 ml;62;454.95
+000168;Te negro 1 kg;117;122.47
+000169;Fideo talludin 250 g;114;3.37
+000170;Cafe molido 250 g;84;359.53
+000171;Mantequilla 500 g;8;203.86
+000172;Aceite de oliva 250 g;46;1.7
+000173;Mantequilla 1 L;21;312.06
+000174;Cafe molido 900 ml;167;132.71
+000175;Atun en aceite 900 ml;198;4.24
+000176;Aceite vegetal 250 g;22;95.28
+000177;Yogurt fresa 900 ml;10;259.19
+000178;Arroz extra 250 g;77;413.66
+000179;Atun en aceite 1 kg;149;347.8
+000180;Azucar glass 500 g;168;470.23
+000181;Atun en lata 900 ml;99;214.73
+000182;Huevos 1 L;38;187.23
+000183;Huevos 900 ml;164;95.86
+000184;Azucar rubia 12 unidades;131;412.12
+000185;Leche evaporada 12 unidades;179;332.31
+000186;Pan blanco 900 ml;192;331.54
+000187;Manzana 1 kg;175;383.77
+000188;Atun en lata 12 unidades;174;455.37
+000189;Naranja 500 g;21;21.42
+000190;Azucar rubia 500 g;163;237.39
+000191;Milo verde 1 kg;96;296.82
+000192;Zanahoria 1 kg;160;13.34
+000193;Naranja 900 ml;174;161.27
+000194;Cebolla roja 250 g;0;300.46
+000195;Atun en lata 1 kg;191;330.62
+000196;Bicarbonato 900 ml;23;433.07
+000197;Tomate 1 kg;190;483.86
+000198;Cebolla roja 250 g;19;175.03
+000199;Atun en aceite 12 unidades;193;135.49
+000200;Atun en aceite 12 unidades;166;302.68
+000201;Cebolla roja 1 L;19;314.92
+000202;Maicena 12 unidades;73;31.63
+000203;Platano 12 unidades;164;130.95
+000204;Aceite vegetal 900 ml;37;218.43
+000205;Cafe molido 12 unidades;190;455.09
+000206;Te negro 900 ml;145;88.45
+000207;Arroz extra 1 L;15;319.37
+000208;Cafe molido 12 unidades;25;454.63
+000209;Aceite de oliva 12 unidades;125;191.61
+000210;Carne molida 900 ml;73;305.52
+000211;Papa amarilla 1 L;196;78.66
+000212;Bicarbonato 900 ml;51;205.25
+000213;Aceite vegetal 1 L;4;190.78
+000214;Papa amarilla 1 kg;129;295.55
+000215;Cafe molido 1 L;53;139.09
+000216;Aceite vegetal 900 ml;23;93.89
+000217;Huevos 900 ml;67;236.63
+000218;Pan blanco 900 ml;161;334.41
+000219;Cafe molido 1 kg;180;240.32
+000220;Atun en aceite 1 L;124;259.26
+000221;Arroz extra 500 g;0;323.23
+000222;Pollo entero 1 L;103;198.88
+000223;Huevos 500 g;106;226.41
+000224;Yogurt fresa 250 g;30;218.13
+000225;Arroz extra 250 g;192;222.69
+000226;Harina 1 L;30;129.28
+000227;Carne molida 1 kg;189;190.94
+000228;Cafe molido 250 g;16;258.49
+000229;Yogurt fresa 900 ml;19;237.39
+000230;Maicena 1 L;193;181.32
+000231;Azucar glass 1 kg;71;67.65
+000232;Azucar rubia 12 unidades;73;417.12
+000233;Maicena 500 g;63;175.14
+000234;Leche evaporada 900 ml;80;125.41
+000235;Sardinas 250 g;200;281.32
+000236;Bicarbonato 1 kg;194;414.46
+000237;Yogurt fresa 900 ml;140;134.32
+000238;Huevos 1 kg;12;480.95
+000239;Leche evaporada 1 L;157;494.26
+000240;Pan blanco 12 unidades;73;319.22
+000241;Azucar rubia 900 ml;32;112.91
+000242;Cebolla roja 1 L;87;185.64
+000243;Te negro 250 g;189;485.14
+000244;Naranja 250 g;103;430.91
+000245;Atun en aceite 250 g;123;366.24
+000246;Pollo entero 1 L;30;110.66
+000247;Naranja 500 g;19;137.23
+000248;Tomate 1 L;140;145.19
+000249;Papa amarilla 250 g;194;295.88
+000250;Leche evaporada 500 g;140;127.09
+000251;Atun en aceite 1 kg;44;225.1
+000252;Zanahoria 1 kg;81;157.71
+000253;Queso fresco 250 g;145;133.47
+000254;Bicarbonato 1 kg;191;271.52
+000255;Yogurt fresa 1 L;190;344.51
+000256;Aceite de oliva 1 L;69;222.64
+000257;Sardinas 1 kg;127;182.87
+000258;Manzana 250 g;32;451.07
+000259;Tomate 900 ml;161;142.53
+000260;Aceite vegetal 250 g;63;253.02
+000261;Yogurt fresa 12 unidades;114;284
+000262;Milo verde 250 g;5;84.39
+000263;Azucar rubia 1 L;181;311.16
+000264;Milo verde 900 ml;125;1.11
+000265;Aceite vegetal 1 L;135;307.8
+000266;Papa amarilla 500 g;200;72.46
+000267;Atun en aceite 500 g;38;343.33
+000268;Pollo entero 1 kg;184;460.4
+000269;Naranja 1 L;21;362.43
+000270;Sardinas 1 kg;0;83.34
+000271;Atun en aceite 900 ml;9;424.03
+000272;Carne molida 250 g;32;411.56
+000273;Cafe molido 900 ml;162;287.67
+000274;Carne molida 1 kg;25;47.1
+000275;Te negro 900 ml;149;126.63
+000276;Yogurt fresa 250 g;57;394.91
+000277;Arroz extra 1 kg;137;198.6
+000278;Papa amarilla 250 g;80;423.42
+000279;Harina 500 g;121;345.9
+000280;Atun en aceite 900 ml;63;20.18
+000281;Milo verde 1 L;180;426.75
+000282;Te negro 1 kg;5;128.21
+000283;Cebolla roja 12 unidades;165;276.26
+000284;Aceite vegetal 250 g;58;438.35
+000285;Leche evaporada 250 g;58;324.05
+000286;Azucar rubia 12 unidades;86;471.76
+000287;Leche evaporada 250 g;174;260.75
+000288;Aceite de oliva 1 kg;74;485.39
+000289;Azucar glass 900 ml;17;135.49
+000290;Cebolla roja 500 g;79;128.09
+000291;Atun en aceite 1 L;56;174.68
+000292;Sardinas 250 g;27;409.68
+000293;Cebolla roja 900 ml;47;147.35
+000294;Cebolla roja 1 L;170;37.97
+000295;Milo verde 900 ml;37;258.85
+000296;Azucar rubia 500 g;6;391.67
+000297;Pan blanco 1 L;13;466.21
+000298;Azucar rubia 500 g;100;295.67
+000299;Bicarbonato 12 unidades;80;481.19
+000300;Leche entera 1 kg;42;216.77
+000301;Aceite de oliva 500 g;167;344.93
+000302;Huevos 1 L;8;205.35
+000303;Pollo entero 12 unidades;96;246.02
+000304;Mantequilla 1 L;43;72.4
+000305;Arroz extra 1 kg;71;53.92
+000306;Queso fresco 1 L;31;368.74
+000307;Milo verde 500 g;97;234.72
+000308;Sardinas 250 g;110;58.51
+000309;Azucar rubia 12 unidades;121;129.26
+000310;Queso fresco 900 ml;114;127.5
+000311;Mantequilla 250 g;188;311.99
+000312;Arroz extra 12 unidades;105;163.53
+000313;Atun en lata 12 unidades;196;266.27
+000314;Azucar rubia 1 L;8;305.12
+000315;Aceite vegetal 1 kg;65;128.75
+000316;Huevos 1 kg;155;223.21
+000317;Queso fresco 250 g;85;405.34
+000318;Azucar rubia 250 g;191;470.65
+000319;Carne molida 250 g;70;195.9
+000320;Arroz extra 12 unidades;193;391.31
+000321;Maicena 12 unidades;16;16.89
+000322;Harina 500 g;27;312.41
+000323;Carne molida 1 L;198;254.3
+000324;Atun en lata 250 g;110;324.4
+000325;Pan blanco 1 L;46;6.7
+000326;Atun en lata 12 unidades;77;454.58
+000327;Sardinas 500 g;155;155.75
+000328;Mantequilla 250 g;117;238.14
+000329;Atun en lata 900 ml;20;336.46
+000330;Aceite de oliva 1 L;192;105.81
+000331;Atun en aceite 1 L;16;426.68
+000332;Azucar rubia 1 L;141;357.91
+000333;Mantequilla 500 g;109;69.95
+000334;Aceite vegetal 250 g;159;56.1
+000335;Aceite de oliva 1 kg;107;327.68
+000336;Carne molida 1 L;44;154.48
+000337;Pan blanco 1 L;117;407.52
+000338;Bicarbonato 12 unidades;60;491.19
+000339;Zanahoria 12 unidades;194;80.4
+000340;Sardinas 250 g;75;184.1
+000341;Manzana 250 g;95;167.49
+000342;Huevos 250 g;50;288.96
+000343;Atun en aceite 500 g;62;155.33
+000344;Pan blanco 250 g;148;124.37
+000345;Mantequilla 1 kg;101;165.92
+000346;Atun en aceite 900 ml;134;152.63
+000347;Naranja 1 kg;167;305.03
+000348;Azucar rubia 1 kg;1;312.14
+000349;Bicarbonato 500 g;114;246.02
+000350;Azucar rubia 250 g;59;79.12
+000351;Azucar rubia 500 g;153;383.2
+000352;Aceite de oliva 1 kg;95;336.98
+000353;Azucar glass 500 g;114;396.2
+000354;Cafe molido 12 unidades;1;70.32
+000355;Naranja 900 ml;181;407.28
+000356;Queso fresco 500 g;9;242.63
+000357;Mantequilla 500 g;11;134.67
+000358;Cafe molido 1 kg;153;480.87
+000359;Naranja 500 g;2;215.46
+000360;Leche evaporada 12 unidades;95;122.33
+000361;Platano 250 g;19;134.3
+000362;Azucar rubia 1 L;140;317.87
+000363;Aceite vegetal 1 L;25;260.06
+000364;Pollo entero 900 ml;39;419.89
+000365;Zanahoria 1 kg;167;108.27
+000366;Yogurt fresa 12 unidades;69;269.55
+000367;Te negro 12 unidades;78;274.83
+000368;Milo verde 1 kg;79;489.46
+000369;Manzana 250 g;106;273.92
+000370;Arroz extra 250 g;164;130.23
+000371;Yogurt fresa 12 unidades;103;134.47
+000372;Milo verde 1 kg;111;103.6
+000373;Leche evaporada 1 kg;23;267.21
+000374;Manzana 250 g;117;107.52
+000375;Pan blanco 1 kg;13;362.46
+000376;Pan blanco 12 unidades;101;59.34
+000377;Manzana 900 ml;94;484.16
+000378;Tomate 500 g;37;229.02
+000379;Te negro 500 g;133;113.58
+000380;Maicena 1 kg;27;252.48
+000381;Cebolla roja 500 g;77;84
+000382;Harina 1 kg;123;207.12
+000383;Azucar rubia 900 ml;162;255.21
+000384;Aceite vegetal 12 unidades;158;452.02
+000385;Harina 500 g;163;146.53
+000386;Platano 1 L;157;129.52
+000387;Harina 1 L;46;371.55
+000388;Aceite de oliva 1 kg;102;340.4
+000389;Fideo talludin 1 L;91;81.64
+000390;Pan blanco 500 g;185;127.21
+000391;Azucar rubia 900 ml;193;441.56
+000392;Azucar rubia 12 unidades;82;78.15
+000393;Yogurt fresa 900 ml;116;361.48
+000394;Azucar glass 12 unidades;199;201.68
+000395;Naranja 1 L;78;382.82
+000396;Atun en aceite 1 L;99;432.77
+000397;Queso fresco 1 L;128;288.27
+000398;Fideo talludin 1 kg;0;406.59
+000399;Cebolla roja 1 L;60;293.82
+000400;Sardinas 900 ml;199;301.34
+000401;Harina 500 g;121;263.36
+000402;Leche entera 1 kg;32;235.99
+000403;Leche evaporada 250 g;23;290.64
+000404;Tomate 900 ml;168;27.71
+000405;Azucar rubia 12 unidades;33;54.89
+000406;Maicena 12 unidades;80;473.11
+000407;Tomate 1 kg;13;493.86
+000408;Tomate 1 L;167;90.25
+000409;Arroz extra 1 kg;157;480.77
+000410;Carne molida 1 kg;49;87.25
+000411;Bicarbonato 1 L;73;109.2
+000412;Pollo entero 12 unidades;56;43.93
+000413;Harina 250 g;156;496.56
+000414;Cafe molido 500 g;82;403.08
+000415;Cafe molido 1 L;36;167.56
+000416;Tomate 1 L;53;388.89
+000417;Cafe molido 900 ml;129;156.58
+000418;Mantequilla 250 g;9;131.37
+000419;Fideo talludin 1 L;41;418.18
+000420;Maicena 250 g;173;215.84
+000421;Bicarbonato 1 L;43;174.23
+000422;Leche entera 900 ml;12;418.01
+000423;Azucar glass 250 g;115;364.84
+000424;Tomate 900 ml;176;69.55
+000425;Cafe molido 900 ml;161;259.37
+000426;Huevos 250 g;67;247.24
+000427;Queso fresco 900 ml;37;237.09
+000428;Mantequilla 1 kg;113;151.76
+000429;Fideo talludin 900 ml;190;32.64
+000430;Te negro 900 ml;64;204.2
+000431;Naranja 900 ml;169;205.89
+000432;Huevos 1 kg;191;23.14
+000433;Atun en aceite 500 g;74;404.73
+000434;Naranja 1 L;106;336.98
+000435;Queso fresco 1 kg;33;321.07
+000436;Atun en aceite 900 ml;167;30.87
+000437;Arroz extra 1 kg;0;372.66
+000438;Queso fresco 250 g;27;343.81
+000439;Queso fresco 900 ml;57;271.81
+000440;Manzana 250 g;150;88.63
+000441;Aceite de oliva 250 g;159;312.23
+000442;Fideo talludin 500 g;3;160.63
+000443;Carne molida 500 g;115;63.78
+000444;Aceite vegetal 12 unidades;37;437.12
+000445;Atun en lata 250 g;102;174.17
+000446;Milo verde 1 kg;14;423.67
+000447;Harina 900 ml;89;390.75
+000448;Naranja 900 ml;113;395.44
+000449;Maicena 900 ml;187;323.99
+000450;Atun en aceite 500 g;0;29.83
+000451;Azucar rubia 900 ml;6;267.06
+000452;Fideo talludin 500 g;40;39.25
+000453;Maicena 1 kg;3;402.49
+000454;Zanahoria 12 unidades;50;94.23
+000455;Leche evaporada 500 g;132;399.51
+000456;Naranja 900 ml;165;421.45
+000457;Leche evaporada 900 ml;44;334.3
+000458;Te negro 1 kg;76;411.23
+000459;Azucar rubia 12 unidades;200;314.21
+000460;Carne molida 900 ml;1;246.86
+000461;Azucar glass 1 L;190;305.91
+000462;Aceite vegetal 12 unidades;167;297.54
+000463;Fideo talludin 500 g;26;172.32
+000464;Atun en aceite 12 unidades;9;81.78
+000465;Mantequilla 12 unidades;177;173.55
+000466;Carne molida 1 kg;68;417.72
+000467;Zanahoria 12 unidades;111;450.4
+000468;Atun en lata 900 ml;67;194.73
+000469;Naranja 500 g;21;333.54
+000470;Arroz extra 500 g;66;155.73
+000471;Harina 12 unidades;51;105.32
+000472;Huevos 250 g;49;255.74
+000473;Mantequilla 900 ml;61;249.67
+000474;Maicena 12 unidades;177;436.96
+000475;Harina 900 ml;120;310.42
+000476;Harina 900 ml;178;5.18
+000477;Azucar glass 1 kg;111;475.88
+000478;Atun en aceite 900 ml;78;139.91
+000479;Yogurt fresa 900 ml;149;51.98
+000480;Manzana 500 g;37;22.57
+000481;Arroz extra 1 kg;27;408.61
+000482;Maicena 500 g;88;93.95
+000483;Carne molida 1 kg;7;28.29
+000484;Pan blanco 12 unidades;164;416.41
+000485;Azucar rubia 12 unidades;17;483.85
+000486;Azucar rubia 1 kg;151;239.16
+000487;Aceite de oliva 900 ml;170;44.21
+000488;Bicarbonato 12 unidades;98;71.19
+000489;Atun en aceite 500 g;52;74.38
+000490;Azucar rubia 1 kg;192;416.61
+000491;Aceite vegetal 12 unidades;161;189.32
+000492;Cebolla roja 1 kg;33;65.13
+000493;Atun en lata 12 unidades;52;193.97
+000494;Mantequilla 250 g;108;172.15
+000495;Arroz extra 250 g;65;186.2
+000496;Azucar rubia 12 unidades;194;242.18
+000497;Maicena 250 g;196;395.53
+000498;Tomate 1 L;73;406.19
+000499;Huevos 1 kg;105;21.47
+000500;Leche evaporada 900 ml;197;65.42
+000501;Queso fresco 1 L;180;32.53
+000502;Zanahoria 900 ml;55;469.18
+000503;Azucar glass 1 kg;147;189.16
+000504;Fideo talludin 1 L;0;344.11
+000505;Aceite de oliva 250 g;195;492.85
+000506;Azucar rubia 1 kg;89;322.66
+000507;Leche entera 1 L;177;121.92
+000508;Milo verde 1 L;151;228.53
+000509;Milo verde 900 ml;66;379.8
+000510;Milo verde 500 g;72;141.71
+000511;Milo verde 12 unidades;59;327.57
+000512;Fideo talludin 1 kg;162;54
+000513;Cebolla roja 12 unidades;143;69.52
+000514;Naranja 250 g;91;63.35
+000515;Yogurt fresa 1 L;190;57.47
+000516;Leche evaporada 12 unidades;6;244.76
+000517;Aceite de oliva 250 g;67;281.53
+000518;Bicarbonato 900 ml;128;113.13
+000519;Yogurt fresa 12 unidades;59;303.06
+000520;Pan blanco 900 ml;152;495.45
+000521;Carne molida 900 ml;165;23.2
+000522;Queso fresco 900 ml;83;342.92
+000523;Pan blanco 1 L;169;363.89
+000524;Huevos 250 g;43;304.53
+000525;Papa amarilla 12 unidades;197;169.56
+000526;Manzana 500 g;32;219.92
+000527;Papa amarilla 12 unidades;178;156.93
+000528;Tomate 500 g;68;198.59
+000529;Sardinas 12 unidades;158;102.31
+000530;Huevos 500 g;63;474.93
+000531;Mantequilla 900 ml;133;229.47
+000532;Fideo talludin 500 g;83;125.04
+000533;Cafe molido 12 unidades;26;108.87
+000534;Milo verde 12 unidades;26;129.07
+000535;Yogurt fresa 500 g;37;198.98
+000536;Huevos 250 g;111;180.45
+000537;Aceite de oliva 1 kg;163;71.03
+000538;Cafe molido 500 g;99;305.03
+000539;Azucar rubia 1 kg;102;287.08
+000540;Carne molida 500 g;128;415.43
+000541;Te negro 1 L;5;93.93
+000542;Cafe molido 900 ml;188;266.23
+000543;Arroz extra 12 unidades;62;282.82
+000544;Carne molida 900 ml;150;491.93
+000545;Naranja 1 L;58;438.71
+000546;Huevos 12 unidades;198;421.53
+000547;Carne molida 900 ml;58;446.38
+000548;Fideo talludin 12 unidades;31;298.46
+000549;Leche evaporada 250 g;66;412.74
+000550;Carne molida 1 kg;107;159.85
+000551;Atun en lata 1 L;182;468.03
+000552;Naranja 500 g;64;278.59
+000553;Cebolla roja 1 L;5;408.35
+000554;Azucar glass 1 L;132;443.52
+000555;Pollo entero 500 g;167;215.99
+000556;Sardinas 1 kg;99;322.02
+000557;Maicena 1 kg;9;165.64
+000558;Zanahoria 500 g;41;470.37
+000559;Atun en lata 500 g;132;229.2
+000560;Leche entera 900 ml;116;355.57
+000561;Aceite de oliva 12 unidades;121;336.66
+000562;Arroz extra 12 unidades;94;342.89
+000563;Mantequilla 1 L;189;300.44
+000564;Aceite de oliva 12 unidades;47;258.22
+000565;Tomate 1 kg;186;403.39
+000566;Queso fresco 12 unidades;14;166.45
+000567;Cafe molido 1 L;102;41.3
+000568;Arroz extra 1 kg;107;276.6
+000569;Naranja 12 unidades;172;231.76
+000570;Manzana 250 g;27;148.08
+000571;Te negro 12 unidades;102;346.42
+000572;Atun en aceite 1 L;118;139.94
+000573;Fideo talludin 500 g;198;46.15
+000574;Atun en lata 12 unidades;49;308.46
+000575;Naranja 900 ml;184;149.1
+000576;Harina 500 g;90;437.49
+000577;Naranja 1 L;119;193.9
+000578;Sardinas 900 ml;166;83.02
+000579;Sardinas 1 L;90;152.03
+000580;Cafe molido 12 unidades;96;451.52
+000581;Cafe molido 1 L;173;122.82
+000582;Cebolla roja 1 kg;184;185.29
+000583;Queso fresco 500 g;167;198.8
+000584;Mantequilla 1 L;124;281.81
+000585;Platano 12 unidades;21;433.05
+000586;Bicarbonato 250 g;39;199.68
+000587;Azucar glass 1 L;14;56.88
+000588;Harina 900 ml;83;93.01
+000589;Tomate 250 g;162;382.71
+000590;Arroz extra 12 unidades;2;138.46
+000591;Milo verde 1 kg;167;193.01
+000592;Cafe molido 900 ml;25;380.11
+000593;Pan blanco 500 g;47;297.19
+000594;Queso fresco 500 g;53;264.77
+000595;Atun en lata 900 ml;42;400.45
+000596;Bicarbonato 12 unidades;155;60.24
+000597;Pollo entero 900 ml;162;195.67
+000598;Aceite de oliva 1 L;177;140.65
+000599;Tomate 1 kg;189;288.43
+000600;Pollo entero 1 kg;142;78.6
+000601;Cafe molido 1 L;59;92.31
+000602;Cebolla roja 1 L;142;39.3
+000603;Cebolla roja 1 L;36;460.02
+000604;Cebolla roja 500 g;127;108.88
+000605;Zanahoria 900 ml;188;5.32
+000606;Fideo talludin 250 g;119;457.05
+000607;Manzana 1 L;170;195.52
+000608;Harina 1 L;95;280.06
+000609;Leche evaporada 12 unidades;19;119.3
+000610;Naranja 250 g;162;424.7
+000611;Arroz extra 1 kg;156;31.06
+000612;Pollo entero 12 unidades;84;62.58
+000613;Tomate 1 L;124;497.22
+000614;Bicarbonato 500 g;8;140.82
+000615;Carne molida 1 L;160;84.16
+000616;Mantequilla 1 kg;168;240.96
+000617;Mantequilla 1 L;199;345.41
+000618;Zanahoria 500 g;72;286.2
+000619;Mantequilla 1 L;64;364.08
+000620;Azucar rubia 250 g;74;233.76
+000621;Harina 1 L;103;219.7
+000622;Tomate 250 g;129;226.97
+000623;Aceite de oliva 12 unidades;126;78.28
+000624;Mantequilla 500 g;81;468.39
+000625;Te negro 500 g;150;417.03
+000626;Aceite vegetal 1 kg;102;474.61
+000627;Zanahoria 1 L;139;377.2
+000628;Azucar rubia 1 L;76;72.1
+000629;Arroz extra 1 kg;48;312.33
+000630;Platano 12 unidades;15;329.23
+000631;Maicena 900 ml;156;247.44
+000632;Platano 500 g;160;442.51
+000633;Carne molida 12 unidades;152;447.28
+000634;Aceite vegetal 500 g;10;438.12
+000635;Naranja 1 L;160;114.96
+000636;Leche entera 12 unidades;46;25.23
+000637;Leche evaporada 1 kg;167;9.79
+000638;Queso fresco 500 g;79;369.37
+000639;Carne molida 250 g;77;122.09
+000640;Leche evaporada 1 kg;81;14.36
+000641;Leche evaporada 900 ml;164;379.98
+000642;Maicena 1 kg;127;372.92
+000643;Tomate 1 kg;30;276.95
+000644;Manzana 12 unidades;103;293.59
+000645;Aceite vegetal 1 kg;174;254.71
+000646;Platano 900 ml;168;102.77
+000647;Cebolla roja 1 L;140;67.87
+000648;Aceite vegetal 12 unidades;120;140.11
+000649;Bicarbonato 500 g;160;11.17
+000650;Leche evaporada 1 kg;2;449.1
+000651;Pollo entero 1 kg;22;144.02
+000652;Azucar glass 1 kg;33;310.54
+000653;Arroz extra 250 g;184;373.89
+000654;Atun en aceite 1 L;187;488.72
+000655;Fideo talludin 1 kg;93;490.71
+000656;Carne molida 12 unidades;37;479.23
+000657;Sardinas 1 kg;75;412.97
+000658;Zanahoria 12 unidades;127;302.84
+000659;Pollo entero 250 g;13;471.03
+000660;Azucar rubia 1 kg;15;10.65
+000661;Bicarbonato 12 unidades;175;406.15
+000662;Aceite vegetal 1 L;79;205.79
+000663;Huevos 900 ml;42;319.72
+000664;Platano 1 kg;80;241.88
+000665;Milo verde 900 ml;186;288.52
+000666;Cebolla roja 12 unidades;42;95.96
+000667;Milo verde 1 kg;92;423.63
+000668;Fideo talludin 12 unidades;106;313.58
+000669;Yogurt fresa 1 L;69;495.64
+000670;Manzana 250 g;74;184.43
+000671;Azucar rubia 900 ml;166;461.89
+000672;Atun en lata 900 ml;85;398.03
+000673;Huevos 1 kg;38;394.96
+000674;Harina 250 g;149;281.86
+000675;Bicarbonato 500 g;96;254.85
+000676;Pollo entero 1 L;154;154.58
+000677;Atun en lata 1 L;72;452.25
+000678;Arroz extra 250 g;67;176.65
+000679;Leche evaporada 500 g;150;28.71
+000680;Te negro 500 g;146;97.33
+000681;Cafe molido 900 ml;175;328.66
+000682;Queso fresco 900 ml;21;354.88
+000683;Zanahoria 1 L;97;132.35
+000684;Atun en lata 12 unidades;59;203.81
+000685;Platano 1 kg;173;260.19
+000686;Papa amarilla 12 unidades;52;167.94
+000687;Manzana 1 kg;98;302.28
+000688;Zanahoria 1 kg;137;233.72
+000689;Sardinas 1 kg;59;261.95
+000690;Manzana 900 ml;66;343
+000691;Mantequilla 1 L;129;387.22
+000692;Aceite de oliva 500 g;54;127.03
+000693;Aceite vegetal 500 g;179;190.92
+000694;Queso fresco 900 ml;144;236.2
+000695;Yogurt fresa 900 ml;38;162.41
+000696;Azucar rubia 1 L;95;70.54
+000697;Queso fresco 12 unidades;118;54.56
+000698;Pan blanco 250 g;152;20.89
+000699;Queso fresco 250 g;132;398.89
+000700;Arroz extra 1 kg;8;135.11
+000701;Azucar glass 900 ml;124;385.5
+000702;Manzana 500 g;66;184.38
+000703;Leche evaporada 1 kg;114;389.7
+000704;Harina 900 ml;33;167.45
+000705;Harina 1 kg;86;132.72
+000706;Fideo talludin 1 L;21;19.03
+000707;Azucar rubia 1 kg;142;243.24
+000708;Azucar glass 12 unidades;117;320.05
+000709;Milo verde 1 kg;153;420.32
+000710;Yogurt fresa 1 kg;180;59.95
+000711;Cafe molido 250 g;144;153.83
+000712;Naranja 1 kg;171;332.94
+000713;Yogurt fresa 500 g;114;105.67
+000714;Queso fresco 500 g;184;146.3
+000715;Fideo talludin 1 kg;65;231.69
+000716;Azucar rubia 900 ml;7;31.82
+000717;Cafe molido 900 ml;181;485.68
+000718;Naranja 1 L;14;67.22
+000719;Pan blanco 250 g;193;4.78
+000720;Milo verde 500 g;173;491.35
+000721;Te negro 900 ml;151;290.19
+000722;Sardinas 12 unidades;26;309.49
+000723;Mantequilla 250 g;65;256.62
+000724;Leche entera 250 g;123;249.8
+000725;Fideo talludin 1 L;61;94.81
+000726;Maicena 12 unidades;3;307.64
+000727;Carne molida 500 g;9;103.86
+000728;Maicena 500 g;19;406.44
+000729;Azucar glass 250 g;191;92.59
+000730;Sardinas 1 L;24;253.36
+000731;Harina 1 kg;160;50.25
+000732;Papa amarilla 250 g;82;154.27
+000733;Cebolla roja 1 kg;160;240.88
+000734;Pan blanco 250 g;56;483.38
+000735;Azucar rubia 500 g;182;296.81
+000736;Zanahoria 500 g;112;98.9
+000737;Cafe molido 1 L;105;162.71
+000738;Pan blanco 1 kg;69;375.2
+000739;Harina 250 g;85;110.96
+000740;Cafe molido 1 L;27;209.44
+000741;Papa amarilla 1 L;29;101.51
+000742;Tomate 1 kg;161;438.96
+000743;Maicena 500 g;143;313.9
+000744;Harina 250 g;30;169.94
+000745;Sardinas 500 g;93;284.15
+000746;Cafe molido 500 g;60;64.94
+000747;Yogurt fresa 250 g;106;107.29
+000748;Azucar rubia 12 unidades;75;95.6
+000749;Naranja 1 kg;113;333.78
+000750;Mantequilla 900 ml;35;291.32
+000751;Arroz extra 900 ml;73;122.77
+000752;Queso fresco 1 L;10;269
+000753;Aceite de oliva 250 g;146;119.41
+000754;Pan blanco 500 g;133;152
+000755;Carne molida 500 g;50;394.64
+000756;Aceite vegetal 1 kg;155;479.96
+000757;Cebolla roja 250 g;44;136.02
+000758;Pan blanco 900 ml;171;464.83
+000759;Naranja 500 g;149;202.87
+000760;Aceite de oliva 1 kg;16;454.66
+000761;Huevos 900 ml;104;473.94
+000762;Maicena 1 kg;132;228.83
+000763;Mantequilla 250 g;163;324.1
+000764;Aceite vegetal 1 kg;104;313.35
+000765;Pan blanco 12 unidades;68;163.75
+000766;Fideo talludin 900 ml;93;25.03
+000767;Fideo talludin 12 unidades;95;377.77
+000768;Platano 1 kg;91;341.67
+000769;Maicena 1 L;132;47.75
+000770;Leche entera 250 g;182;161.38
+000771;Harina 250 g;199;467.08
+000772;Azucar glass 1 L;147;493.38
+000773;Bicarbonato 1 kg;74;71.57
+000774;Milo verde 12 unidades;126;293.57
+000775;Tomate 1 kg;135;353.14
+000776;Pan blanco 1 kg;62;59.05
+000777;Atun en aceite 900 ml;46;111.02
+000778;Leche entera 250 g;64;364.96
+000779;Harina 1 kg;4;64.22
+000780;Maicena 12 unidades;189;128.85
+000781;Cafe molido 1 kg;153;418.35
+000782;Manzana 1 L;133;157.21
+000783;Carne molida 1 L;26;230.83
+000784;Azucar glass 1 kg;183;118.29
+000785;Azucar rubia 250 g;31;305.64
+000786;Cebolla roja 900 ml;128;184.25
+000787;Leche entera 1 kg;31;266.84
+000788;Bicarbonato 500 g;138;388.84
+000789;Atun en aceite 500 g;37;439.28
+000790;Manzana 1 L;191;260.92
+000791;Fideo talludin 1 kg;162;255.76
+000792;Carne molida 1 L;152;396.04
+000793;Tomate 1 kg;101;35.05
+000794;Sardinas 250 g;86;263.6
+000795;Atun en aceite 250 g;183;286.46
+000796;Harina 900 ml;82;263.53
+000797;Azucar glass 900 ml;13;213.91
+000798;Tomate 500 g;174;232.61
+000799;Atun en aceite 1 L;169;415.63
+000800;Arroz extra 250 g;27;348.86
+000801;Fideo talludin 1 kg;83;284.79
+000802;Aceite de oliva 900 ml;171;14.64
+000803;Atun en aceite 500 g;107;261.21
+000804;Sardinas 1 L;162;31.64
+000805;Atun en lata 1 kg;8;421.46
+000806;Platano 250 g;173;409.59
+000807;Cafe molido 12 unidades;138;24.44
+000808;Platano 1 kg;64;80.75
+000809;Tomate 1 kg;111;156.09
+000810;Milo verde 1 kg;73;75.08
+000811;Te negro 250 g;165;110.43
+000812;Leche entera 1 kg;152;337.71
+000813;Bicarbonato 250 g;21;306.67
+000814;Manzana 900 ml;37;289.34
+000815;Leche entera 900 ml;33;193.41
+000816;Maicena 1 L;147;189.94
+000817;Cafe molido 500 g;188;58.57
+000818;Huevos 900 ml;73;298.62
+000819;Platano 12 unidades;145;146.23
+000820;Naranja 1 L;51;360.51
+000821;Carne molida 250 g;117;360.15
+000822;Te negro 900 ml;122;308.34
+000823;Harina 250 g;7;159.76
+000824;Mantequilla 500 g;48;336.83
+000825;Zanahoria 1 L;149;260.82
+000826;Arroz extra 250 g;41;157.33
+000827;Mantequilla 900 ml;83;323.04
+000828;Cafe molido 250 g;55;194.66
+000829;Azucar rubia 1 kg;40;362.18
+000830;Aceite vegetal 900 ml;89;289.34
+000831;Pollo entero 1 kg;132;255.2
+000832;Harina 1 L;90;482.96
+000833;Sardinas 1 kg;133;148.56
+000834;Milo verde 12 unidades;189;102.26
+000835;Leche evaporada 250 g;171;231.98
+000836;Pan blanco 12 unidades;51;404.89
+000837;Platano 250 g;132;63.29
+000838;Huevos 12 unidades;194;312.45
+000839;Cafe molido 12 unidades;181;415.27
+000840;Maicena 12 unidades;32;271.68
+000841;Azucar glass 1 kg;1;269.97
+000842;Sardinas 900 ml;149;77.97
+000843;Cebolla roja 1 L;146;99.06
+000844;Leche evaporada 250 g;159;399.02
+000845;Leche entera 1 L;115;454.93
+000846;Papa amarilla 250 g;185;232.09
+000847;Te negro 250 g;100;345.79
+000848;Zanahoria 900 ml;98;425.8
+000849;Mantequilla 1 kg;190;328.38
+000850;Yogurt fresa 1 L;76;121.72
+000851;Zanahoria 250 g;37;286.5
+000852;Manzana 1 L;148;153
+000853;Aceite vegetal 250 g;82;399.51
+000854;Harina 500 g;83;134.89
+000855;Leche evaporada 1 kg;6;32.09
+000856;Cafe molido 900 ml;127;197.48
+000857;Maicena 900 ml;198;205.74
+000858;Zanahoria 900 ml;111;340.11
+000859;Harina 900 ml;186;450.07
+000860;Leche evaporada 1 L;118;235.43
+000861;Azucar rubia 900 ml;173;231.1
+000862;Papa amarilla 1 kg;173;45.74
+000863;Tomate 500 g;25;269.38
+000864;Queso fresco 900 ml;102;426.02
+000865;Zanahoria 900 ml;39;124.34
+000866;Milo verde 1 L;124;264.21
+000867;Papa amarilla 900 ml;150;225.97
+000868;Carne molida 900 ml;191;61.45
+000869;Fideo talludin 250 g;81;241.29
+000870;Aceite vegetal 250 g;131;116.07
+000871;Leche entera 12 unidades;75;453.12
+000872;Mantequilla 900 ml;107;414.59
+000873;Fideo talludin 900 ml;74;336.28
+000874;Aceite de oliva 900 ml;48;271.17
+000875;Fideo talludin 1 kg;161;371.24
+000876;Platano 1 kg;90;374.46
+000877;Naranja 12 unidades;185;28.73
+000878;Carne molida 1 L;2;2.82
+000879;Te negro 12 unidades;176;363.36
+000880;Arroz extra 250 g;101;65.55
+000881;Manzana 1 kg;171;20.35
+000882;Aceite de oliva 500 g;127;363.57
+000883;Manzana 250 g;165;349.31
+000884;Tomate 500 g;147;131.11
+000885;Leche evaporada 900 ml;31;96.25
+000886;Fideo talludin 900 ml;194;334.89
+000887;Leche entera 1 kg;25;50.89
+000888;Fideo talludin 900 ml;125;307.39
+000889;Platano 1 L;15;427.04
+000890;Arroz extra 12 unidades;197;380.35
+000891;Mantequilla 500 g;183;157.14
+000892;Queso fresco 250 g;43;22.55
+000893;Cafe molido 12 unidades;25;382.58
+000894;Aceite vegetal 250 g;49;295.8
+000895;Platano 1 L;5;36.83
+000896;Atun en aceite 1 L;149;29.78
+000897;Papa amarilla 1 kg;158;157.16
+000898;Atun en aceite 500 g;11;105.46
+000899;Maicena 900 ml;44;207.3
+000900;Arroz extra 1 L;77;275.18
+000901;Platano 250 g;126;45.25
+000902;Atun en aceite 12 unidades;99;443.3
+000903;Carne molida 900 ml;56;271.98
+000904;Te negro 1 L;182;318.44
+000905;Arroz extra 500 g;22;114.68
+000906;Fideo talludin 250 g;97;123.25
+000907;Arroz extra 250 g;101;369
+000908;Queso fresco 1 kg;85;350.79
+000909;Azucar glass 1 L;85;265.23
+000910;Naranja 1 kg;31;277.74
+000911;Harina 250 g;141;161.52
+000912;Yogurt fresa 500 g;119;186.85
+000913;Queso fresco 500 g;111;23.88
+000914;Cafe molido 12 unidades;6;224.75
+000915;Atun en lata 500 g;61;463.59
+000916;Pan blanco 1 kg;50;177.72
+000917;Zanahoria 500 g;142;291.52
+000918;Papa amarilla 500 g;40;242.11
+000919;Queso fresco 500 g;184;266.52
+000920;Yogurt fresa 12 unidades;148;137.35
+000921;Te negro 1 L;129;134.98
+000922;Atun en aceite 1 L;172;86.81
+000923;Milo verde 12 unidades;66;391.56
+000924;Bicarbonato 1 L;150;242.16
+000925;Zanahoria 500 g;103;399.59
+000926;Tomate 500 g;32;492.96
+000927;Leche entera 12 unidades;131;60.94
+000928;Zanahoria 250 g;188;253.19
+000929;Arroz extra 12 unidades;183;373.03
+000930;Pan blanco 250 g;3;256.54
+000931;Carne molida 1 kg;177;117.02
+000932;Sardinas 500 g;82;124.41
+000933;Pollo entero 1 kg;17;369.3
+000934;Maicena 250 g;128;498.06
+000935;Te negro 500 g;16;472.01
+000936;Te negro 1 kg;57;190.11
+000937;Pan blanco 12 unidades;102;186.05
+000938;Queso fresco 1 L;118;412.58
+000939;Bicarbonato 12 unidades;33;182.22
+000940;Fideo talludin 1 kg;93;446.39
+000941;Atun en lata 12 unidades;176;231.31
+000942;Bicarbonato 1 L;6;432.92
+000943;Carne molida 12 unidades;118;163.8
+000944;Azucar glass 1 L;90;413.1
+000945;Leche entera 500 g;74;76.51
+000946;Cafe molido 900 ml;187;144.64
+000947;Carne molida 12 unidades;10;266.19
+000948;Azucar rubia 900 ml;41;283.26
+000949;Aceite de oliva 250 g;39;250.52
+000950;Huevos 1 kg;141;204.76
+000951;Naranja 12 unidades;45;370.98
+000952;Harina 500 g;145;327.29
+000953;Carne molida 900 ml;65;286.03
+000954;Pollo entero 12 unidades;147;229.74
+000955;Maicena 1 kg;28;430.53
+000956;Te negro 1 kg;149;399.05
+000957;Carne molida 1 kg;62;447.34
+000958;Leche entera 1 kg;81;138.71
+000959;Sardinas 250 g;191;57.45
+000960;Leche evaporada 12 unidades;190;258.97
+000961;Huevos 900 ml;56;185.26
+000962;Tomate 1 kg;89;278.85
+000963;Papa amarilla 250 g;177;330.69
+000964;Huevos 12 unidades;160;411.22
+000965;Papa amarilla 900 ml;13;444.4
+000966;Carne molida 500 g;109;442.13
+000967;Tomate 500 g;125;125.05
+000968;Azucar rubia 12 unidades;143;172.17
+000969;Fideo talludin 900 ml;41;418.8
+000970;Atun en aceite 900 ml;66;164.63
+000971;Milo verde 1 kg;43;235.5
+000972;Queso fresco 1 L;23;132.99
+000973;Naranja 250 g;35;90.49
+000974;Pollo entero 12 unidades;124;440.31
+000975;Cebolla roja 500 g;180;159.4
+000976;Arroz extra 900 ml;177;292.65
+000977;Pan blanco 12 unidades;89;458.47
+000978;Te negro 500 g;181;93.98
+000979;Manzana 900 ml;61;219.6
+000980;Naranja 1 kg;140;279.28
+000981;Sardinas 500 g;173;437.81
+000982;Pan blanco 900 ml;118;267.14
+000983;Harina 500 g;29;453.28
+000984;Te negro 1 kg;92;319.9
+000985;Aceite de oliva 1 kg;15;185.07
+000986;Te negro 500 g;28;460.81
+000987;Te negro 1 L;28;106.72
+000988;Mantequilla 1 L;119;374.02
+000989;Queso fresco 250 g;43;366.38
+000990;Aceite vegetal 1 kg;2;308.04
+000991;Sardinas 1 L;21;490.74
+000992;Carne molida 250 g;189;370.39
+000993;Cafe molido 1 kg;165;321.38
+000994;Milo verde 1 L;125;125.39
+000995;Atun en lata 900 ml;82;6.44
+000996;Queso fresco 1 kg;164;188.41
+000997;Naranja 900 ml;187;428.69
+000998;Carne molida 250 g;167;162.21
+000999;Aceite vegetal 500 g;191;19.13
+001000;Arroz extra 1 L;37;195.19
+001001;Queso fresco 500 g;163;345.34
+001002;Azucar glass 12 unidades;43;67.96
+001003;Atun en lata 12 unidades;79;487.48
+001004;Platano 250 g;97;121.94
+001005;Naranja 250 g;81;151.88
+001006;Queso fresco 500 g;141;243
+001007;Harina 250 g;61;38.82
+001008;Azucar rubia 1 kg;145;412.7
+001009;Maicena 12 unidades;103;34.12
+001010;Milo verde 500 g;126;278.2
+001011;Cebolla roja 12 unidades;40;197.32
+001012;Platano 900 ml;160;53.58
+001013;Pan blanco 12 unidades;58;108.24
+001014;Pan blanco 1 L;163;264.05
+001015;Aceite vegetal 1 kg;112;315.18
+001016;Aceite de oliva 500 g;185;245.11
+001017;Arroz extra 1 kg;156;336.07
+001018;Leche evaporada 500 g;72;48.18
+001019;Pollo entero 1 kg;131;466.81
+001020;Leche evaporada 250 g;16;288.5
+001021;Arroz extra 12 unidades;45;475.97
+001022;Fideo talludin 1 L;75;3.74
+001023;Papa amarilla 900 ml;172;229.13
+001024;Manzana 500 g;120;56.73
+001025;Zanahoria 250 g;132;302.77
+001026;Leche evaporada 900 ml;160;102.16
+001027;Yogurt fresa 900 ml;158;54.37
+001028;Atun en lata 1 kg;185;444.31
+001029;Mantequilla 900 ml;168;195.66
+001030;Manzana 900 ml;107;242.59
+001031;Cebolla roja 12 unidades;165;90.68
+001032;Te negro 250 g;135;416.33
+001033;Arroz extra 500 g;56;445.78
+001034;Huevos 1 L;176;56.84
+001035;Pan blanco 12 unidades;148;244.8
+001036;Zanahoria 900 ml;106;236.93
+001037;Tomate 500 g;144;290.25
+001038;Yogurt fresa 250 g;29;149.92
+001039;Fideo talludin 500 g;140;492.41
+001040;Leche entera 500 g;64;426.77
+001041;Leche entera 500 g;135;440.24
+001042;Cafe molido 12 unidades;125;149.76
+001043;Zanahoria 1 L;57;355.69
+001044;Manzana 12 unidades;28;483.07
+001045;Tomate 900 ml;145;53.57
+001046;Azucar glass 1 L;173;49.15
+001047;Atun en lata 1 L;34;330.73
+001048;Zanahoria 900 ml;182;497.04
+001049;Milo verde 1 kg;160;473.9
+001050;Tomate 1 kg;117;450.55
+001051;Yogurt fresa 900 ml;43;126.59
+001052;Manzana 1 L;198;62.02
+001053;Pan blanco 250 g;198;406.52
+001054;Azucar rubia 1 L;60;31.94
+001055;Queso fresco 1 kg;3;461.01
+001056;Platano 500 g;117;197.56
+001057;Leche entera 12 unidades;34;280.16
+001058;Maicena 1 kg;159;133.12
+001059;Manzana 1 kg;186;233.43
+001060;Fideo talludin 250 g;190;224.73
+001061;Atun en lata 12 unidades;174;8.63
+001062;Harina 250 g;31;157.82
+001063;Queso fresco 900 ml;188;344.87
+001064;Milo verde 250 g;184;321.46
+001065;Azucar rubia 900 ml;90;66.3
+001066;Queso fresco 900 ml;83;396.21
+001067;Leche entera 1 kg;172;159.89
+001068;Cafe molido 250 g;49;455.77
+001069;Papa amarilla 1 kg;148;289.27
+001070;Leche entera 1 kg;124;73.36
+001071;Aceite vegetal 250 g;47;99.46
+001072;Zanahoria 250 g;175;439.8
+001073;Yogurt fresa 500 g;150;165.01
+001074;Zanahoria 12 unidades;194;177.1
+001075;Milo verde 1 L;3;17.22
+001076;Mantequilla 500 g;124;329.84
+001077;Cebolla roja 1 kg;9;49.89
+001078;Fideo talludin 900 ml;165;446.32
+001079;Platano 1 L;121;104.73
+001080;Carne molida 1 L;100;151.21
+001081;Azucar glass 900 ml;132;50.73
+001082;Queso fresco 250 g;135;142.76
+001083;Te negro 500 g;150;410.35
+001084;Azucar rubia 500 g;43;237.57
+001085;Huevos 1 L;84;379.17
+001086;Papa amarilla 1 L;90;207.01
+001087;Arroz extra 250 g;148;317.82
+001088;Mantequilla 500 g;5;164.01
+001089;Papa amarilla 900 ml;11;414.44
+001090;Pan blanco 12 unidades;171;95.14
+001091;Cafe molido 1 L;69;42.6
+001092;Tomate 250 g;91;373.87
+001093;Manzana 900 ml;149;92.15
+001094;Carne molida 1 kg;143;63.42
+001095;Azucar glass 500 g;198;280.34
+001096;Naranja 900 ml;162;65.87
+001097;Queso fresco 250 g;60;93.49
+001098;Pollo entero 1 kg;77;224.8
+001099;Huevos 250 g;130;417.29
+001100;Atun en aceite 250 g;140;470.03
+001101;Yogurt fresa 250 g;15;462.52
+001102;Mantequilla 12 unidades;82;316.53
+001103;Tomate 250 g;62;154.88
+001104;Queso fresco 500 g;34;135.58
+001105;Arroz extra 12 unidades;116;266.4
+001106;Papa amarilla 1 L;145;199.18
+001107;Maicena 500 g;150;44.46
+001108;Pan blanco 250 g;184;203.17
+001109;Cafe molido 12 unidades;146;362.28
+001110;Pollo entero 250 g;18;125.67
+001111;Manzana 1 kg;149;118.14
+001112;Te negro 900 ml;90;307.62
+001113;Queso fresco 12 unidades;109;473.64
+001114;Azucar glass 1 kg;124;210.22
+001115;Bicarbonato 500 g;70;169.78
+001116;Zanahoria 1 kg;194;108.84
+001117;Naranja 250 g;60;462.63
+001118;Arroz extra 500 g;12;262.86
+001119;Papa amarilla 500 g;154;186.22
+001120;Azucar glass 900 ml;165;66.25
+001121;Aceite de oliva 500 g;187;38.22
+001122;Milo verde 500 g;153;32.85
+001123;Aceite vegetal 1 kg;147;224.58
+001124;Huevos 500 g;1;124.32
+001125;Cafe molido 900 ml;164;10.83
+001126;Naranja 250 g;7;140.08
+001127;Mantequilla 250 g;191;18.75
+001128;Naranja 1 L;103;400.62
+001129;Pollo entero 250 g;44;38.64
+001130;Azucar glass 1 L;11;58.14
+001131;Naranja 900 ml;85;324.98
+001132;Platano 1 L;65;304.67
+001133;Azucar glass 1 kg;6;208.67
+001134;Manzana 12 unidades;80;37.71
+001135;Leche evaporada 900 ml;181;475.56
+001136;Harina 250 g;40;62.24
+001137;Arroz extra 500 g;53;94.49
+001138;Tomate 1 kg;91;238.06
+001139;Leche evaporada 250 g;137;446.74
+001140;Manzana 900 ml;39;431.8
+001141;Platano 900 ml;84;151.73
+001142;Huevos 900 ml;66;467.24
+001143;Cebolla roja 1 kg;198;425.21
+001144;Te negro 12 unidades;197;361.11
+001145;Carne molida 1 L;143;183.36
+001146;Queso fresco 900 ml;135;180.52
+001147;Pan blanco 250 g;2;366.77
+001148;Cebolla roja 1 kg;167;238.56
+001149;Pan blanco 12 unidades;58;263.69
+001150;Sardinas 1 kg;7;410.35
+001151;Pan blanco 1 kg;15;357.03
+001152;Tomate 500 g;142;120.15
+001153;Cafe molido 900 ml;93;484.39
+001154;Pan blanco 500 g;188;107.22
+001155;Tomate 1 kg;89;466.06
+001156;Atun en aceite 1 L;127;140.68
+001157;Naranja 250 g;99;302.53
+001158;Aceite de oliva 250 g;6;71.65
+001159;Pollo entero 12 unidades;3;43.88
+001160;Atun en lata 12 unidades;102;442.85
+001161;Azucar glass 250 g;15;150.49
+001162;Manzana 1 L;104;247.13
+001163;Milo verde 12 unidades;160;147.85
+001164;Arroz extra 250 g;5;172.91
+001165;Carne molida 1 L;61;152.63
+001166;Queso fresco 500 g;83;498.52
+001167;Leche evaporada 12 unidades;71;196.59
+001168;Bicarbonato 1 L;55;374.24
+001169;Atun en lata 500 g;122;176.16
+001170;Milo verde 500 g;76;186.18
+001171;Aceite vegetal 250 g;1;319.21
+001172;Azucar glass 500 g;41;210.56
+001173;Pollo entero 900 ml;152;297.9
+001174;Aceite de oliva 900 ml;13;138.5
+001175;Azucar glass 12 unidades;92;31.27
+001176;Sardinas 1 L;46;285.95
+001177;Azucar glass 500 g;76;450.02
+001178;Arroz extra 1 kg;38;7.17
+001179;Pan blanco 250 g;38;330.4
+001180;Huevos 250 g;24;493.37
+001181;Fideo talludin 1 L;174;261.29
+001182;Aceite vegetal 1 L;86;421.84
+001183;Maicena 12 unidades;183;260.96
+001184;Bicarbonato 250 g;8;384.56
+001185;Atun en aceite 500 g;160;452.84
+001186;Arroz extra 1 kg;34;331.81
+001187;Platano 500 g;147;283.13
+001188;Carne molida 1 kg;186;14.06
+001189;Azucar rubia 250 g;16;73.31
+001190;Leche entera 1 L;34;345.33
+001191;Leche evaporada 1 kg;45;147.74
+001192;Pollo entero 900 ml;37;415.97
+001193;Huevos 900 ml;128;74.63
+001194;Tomate 250 g;127;51.67
+001195;Queso fresco 500 g;57;480.32
+001196;Aceite vegetal 250 g;180;117.14
+001197;Arroz extra 250 g;68;46.16
+001198;Milo verde 1 kg;50;334.41
+001199;Azucar rubia 1 L;142;238.64
+001200;Cafe molido 1 kg;83;451.98
